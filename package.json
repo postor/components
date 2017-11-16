@@ -26,6 +26,7 @@
     "next-navigation": "^1.0.1",
     "next-routes": "^1.0.27",
     "next.js-redux-helper": "^1.0.4",
+    "randomcolor": "^0.5.3",
     "react": "^15.4.2",
     "react-addons-update": "^15.6.0",
     "react-bootstrap": "^0.31.1",
@@ -34,6 +35,7 @@
     "react-promise-modal": "^1.0.0",
     "react-redux": "^5.0.5",
     "react-tree-renderer": "^1.0.4",
+    "recharts": "^1.0.0-beta.1",
     "spdy": "^3.4.7"
   },
   "devDependencies": {
